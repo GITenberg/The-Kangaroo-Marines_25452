@@ -1,0 +1,34 @@
+_repo: The-Kangaroo-Marines_25452
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25452-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Campbell, R. W.
+    alias: Campbell, Captain R. W.
+    gutenberg_agent_id: '33038'
+    url: http://www.gutenberg.org/2009/agents/33038
+description: ''
+gutenberg_bookshelf:
+- Australia
+- New Zealand
+- World War I
+gutenberg_issued: '2008-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25452'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcsh 'Great Britain. Army. Australian and New Zealand Army Corps -- Fiction'
+- !lcsh 'New Zealanders -- Foreign countries -- Fiction'
+- !lcsh 'Australians -- Foreign countries -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Australia -- Fiction'
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- New Zealand -- Fiction'
+title: The Kangaroo Marines
+url: http://www.gutenberg.org/ebooks/25452
